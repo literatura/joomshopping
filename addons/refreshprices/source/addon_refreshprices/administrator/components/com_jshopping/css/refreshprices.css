@@ -1,0 +1,46 @@
+.button{
+	border: 1px solid #cccccc;
+	border-radius: 5px;
+	padding: 10px 20px;
+	display: inline-block;
+	background-color: #e6e6e6;
+	cursor: pointer;
+	margin-right: 5px;
+}
+
+#uploadcontainer, #refreshcontainer{
+	border: 1px solid #cccccc;
+	padding: 10px;
+	margin-bottom: 15px;
+}
+
+.completed{
+	background-color: #dff0d8;
+}
+
+#preview table{
+	margin-top: 20px;
+}
+
+#preview table td, #preview table th{
+	border: 1px solid #cccccc;
+	padding: 5px;
+}
+
+#preview .log_warning{
+	background-color: #FFFF00;
+}
+
+#preview .log_error{
+	background-color: #FF0000;
+}
+
+#refreshcontainer label{
+	display: inline-block;
+	margin-left: 15px;
+}
+
+#refreshcontainer .colsetting{
+	width: 70px;
+	display: none;
+}
