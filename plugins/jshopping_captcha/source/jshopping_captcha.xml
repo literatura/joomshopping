@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="plugin" version="1.7" method="upgrade" group="jshoppingcheckout">
+	<name>Recaptcha for JoomShopping</name>
+	<creationDate>26.11.2012</creationDate>
+	<version>1.0.0</version>
+	<author>Niyaz Musin</author>
+	<authorEmail>niyaz.musin@ya.ru</authorEmail>
+	<authorUrl></authorUrl>
+	<copyright>Niyaz Musin</copyright>
+	<description>Recaptcha for JoomShopping</description> 
+    <files>
+        <filename plugin="jshopping_captcha">jshopping_captcha.php</filename>
+    </files>
+</extension>
