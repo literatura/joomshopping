@@ -7,7 +7,7 @@
 	<authorEmail>niyaz.musin@ya.ru</authorEmail>
 	<authorUrl></authorUrl>
 	<copyright>Niyaz Musin</copyright>
-	<description>Recaptcha for JoomShopping</description> 
+	<description>Joomla captcha for JoomShopping</description> 
     <files>
         <filename plugin="jshopping_captcha">jshopping_captcha.php</filename>
     </files>

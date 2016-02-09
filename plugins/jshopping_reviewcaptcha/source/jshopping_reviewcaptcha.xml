@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="plugin" version="1.7" method="upgrade" group="jshoppingcheckout">
+	<name>JoomShopping ReviewCaptcha</name>
+	<creationDate>09.12.2015</creationDate>
+	<version>1.0.0</version>
+	<author>Niyaz Musin</author>
+	<authorEmail>mohax13@mail.ru</authorEmail>
+	<authorUrl></authorUrl>
+	<copyright></copyright>
+	<license>GNU GPL</license>
+	<description>Joomla captcha for JoomShopping reviews</description> 
+    <files>
+        <filename plugin="jshopping_reviewcaptcha">jshopping_reviewcaptcha.php</filename>
+    </files>
+</extension>
