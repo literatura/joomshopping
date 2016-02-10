@@ -8,7 +8,7 @@
 	<authorUrl></authorUrl>
 	<copyright>Niyaz Musin</copyright>
 	<license>GNU GPL</license>
-	<description>Выводит файлы из указанной категории jDownloads в карточке товара</description>
+	<description>аддон для вывода файлов из указанной категории jDownloads в карточке товара</description>
 	<files>
 		<filename plugin="jdownloads_files_for_product">jdownloads_files_for_product.php</filename>
 	</files>
