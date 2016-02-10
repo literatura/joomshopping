@@ -7,3 +7,7 @@
 ### Аддоны:
 1. refreshprices - аддон для обновления цен в магазине из файла Excel (xls, xlsx). Для поиска товара используется артикул (код товара).
 2. jdownloads_files_for_product - аддон для вывода файлов из указанной категории jDownloads в карточке товара.
+
+### Плагины
+1. jshopping_captcha - плагин для вывода стандартной капчи Joomla при регистрации в Joomshopping
+2. jshopping_reviewcaptcha - плагин для вывода стандартной капчи Joomla в форме отзывов Joomshopping
