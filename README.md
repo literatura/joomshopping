@@ -9,5 +9,4 @@
 2. jdownloads_files_for_product - аддон для вывода файлов из указанной категории jDownloads в карточке товара.
 
 ### Плагины
-1. jshopping_captcha - плагин для вывода стандартной капчи Joomla при регистрации в Joomshopping
-2. jshopping_reviewcaptcha - плагин для вывода стандартной капчи Joomla в форме отзывов Joomshopping
+1. jshopping_reviewcaptcha - плагин для вывода стандартной капчи Joomla в форме отзывов Joomshopping
